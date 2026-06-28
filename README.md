@@ -21,6 +21,10 @@ This project is an interactive sales dashboard built using Google Looker Studio 
 
 ## Project Objective
 The objective of this project is to demonstrate data visualization skills by transforming raw sales data into meaningful insights that support data-driven decision-making.
+## Live Dashboard
+
+Google Looker Studio:
+https://datastudio.google.com/reporting/3d6d6e19-3b2d-4cb8-9e22-ebd543b58d7a
 
 ## Author
 
